@@ -1,0 +1,49 @@
+/* line 2, ../sass/style.scss */
+#test {
+  -moz-box-shadow: black 1px 1px 10px;
+  -webkit-box-shadow: black 1px 1px 10px;
+  -o-box-shadow: black 1px 1px 10px;
+  box-shadow: black 1px 1px 10px;
+}
+
+/* line 3, ../sass/style.scss */
+p {
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -o-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -khtml-border-radius: 30px;
+  border-radius: 30px;
+}
+
+/* line 4, ../sass/style.scss */
+#main div {
+  display: none;
+  height: 200px;
+  width: 200px;
+}
+
+/* line 5, ../sass/style.scss */
+.div0 {
+  background: blue;
+}
+
+/* line 6, ../sass/style.scss */
+.div1 {
+  background: black;
+}
+
+/* line 7, ../sass/style.scss */
+.div2 {
+  background: red;
+}
+
+/* line 8, ../sass/style.scss */
+.div3 {
+  background: green;
+}
+
+/* line 9, ../sass/style.scss */
+.div4 {
+  background: yellow;
+}
